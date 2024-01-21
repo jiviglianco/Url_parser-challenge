@@ -1,0 +1,21 @@
+{
+    "name": "url_parser",
+    "version": "1.0.0",
+    "description": "Url Parser challenge",
+    "main": "src/main.ts",
+    "scripts": {
+        "test": "jest",
+        "build": "npx tsc",
+        "parse": "node dist/main.js"
+    },
+    "keywords": [],
+    "author": "Juan Ignacio Viglianco",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/jest": "^29.5.11",
+        "jest": "^29.7.0",
+        "ts-jest": "^29.1.1",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.3.3"
+    }
+}
