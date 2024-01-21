@@ -46,7 +46,7 @@ and readability. Feel free to use low-level libraries like Lodash.
 2. Run the command:
 
     ```bash
-    npm run speak
+    npm run parse
 ### Testing
 1. Run the command:
 
