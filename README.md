@@ -1,6 +1,4 @@
-# Zoo Project
-
-URL Parser Exercise
+# Url Parser Exercise
 We need some logic that extracts the variable parts of a url into a hash. The keys of the extract hash will be the "names" of the variable parts of a url, and the values of the hash will be the values. We will be supplied with:
 1. A url format string, which describes the format of a url. A url format string can contain constant parts and variable parts, in any order, where "parts" of a url are separated with "/". All variable parts begin with a colon. Here is an example of such a url format string:
     > '/:version/api/:collection/:id'
