@@ -7,7 +7,6 @@ We need some logic that extracts the variable parts of a url into a hash. The ke
 
 Given this example url format string and url instance, the hash we want that maps all the variable parts of the url instance to their values would look like this:
 
-    ```json
     {
         "version": 6,
         "collection": "listings",
